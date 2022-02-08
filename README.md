@@ -1,6 +1,10 @@
 ### Hey there 👋
 
-I'm Max, a Senior Full Stack Developer based in Minsk, Belarus. 
+✨ I'm Max, a Senior Full Stack Developer based in Minsk, Belarus.  
+⚡ I’m currently working for iTechArt.
+
+
+🔭 You can find more information about me and my experience [here](https://max-starling-cv.web.app/).
 
 <!--
 **Max-Starling/Max-Starling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
