@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Max, a Senior Full Stack Developer based in Minsk, Belarus. 
 
 <!--
 **Max-Starling/Max-Starling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
