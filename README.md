@@ -3,9 +3,10 @@
 🧙‍♂️ I'm Max, a Senior Full Stack Developer based in Minsk, Belarus.  
 ⚡ I’m currently working for [iTechArt](https://www.itechart.com/).  
 ✒ I share my programming knowledge [here](https://github.com/Max-Starling/Notes).  
-🔭 You can find more info about me [here](https://max-starling-cv.web.app/).
-<!--  and my experience, my skills -->
+🔭 You can find more info about me [here](https://max-starling-cv.web.app/).  
 
+<!--  and my experience, my skills -->
+<!-- 👯 Open for contributing. -->
 <!--
 **Max-Starling/Max-Starling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
