@@ -1,4 +1,4 @@
-### Hey 👋
+### Greetings 👋
 
 🧙‍♂️ I'm Max, a Senior Full Stack Developer based in Minsk, Belarus.  
 ⚡ I’m currently working for [iTechArt](https://www.itechart.com/).  
