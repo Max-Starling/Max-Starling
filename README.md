@@ -5,7 +5,7 @@
 ✒ I share my programming knowledge [here](https://github.com/Max-Starling/Notes).  
 🔭 You can find more info about me [here](https://max-starling-cv.web.app/).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&custom_title=Max-Starling%27s%20GitHub%20Stats)](https://github.com/Max-Starling)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&custom_title=Max-Starling%27s%20GitHub%20Stats)](https://github.com/Max-Starling)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Starling&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
