@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 🧙‍♂️ I'm Max, a Senior Full Stack Developer based in ~~Minsk, Belarus~~ (anywhere but here).  
-⚡ I’m currently working for [iTechArt](https://www.itechart.com/).  
+⚡ I’m currently working for [Sourceter](https://sourceter.com/). Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/).  
 ✒ I share my knowledge in [Max-Starling/Notes](https://github.com/Max-Starling/Notes).  
 🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).  
 
