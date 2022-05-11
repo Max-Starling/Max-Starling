@@ -9,6 +9,7 @@
 
 <a href="http://www.github.com/Max-Starling"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+Let's say NO to WAR.  
 Ukraine, we are for you! 💙💛
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Starling&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
