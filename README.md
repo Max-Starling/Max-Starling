@@ -6,9 +6,10 @@
 🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).  
 
 
-<a href="http://www.github.com/Max-Starling"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Max-Starling">
+ <img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats)](https://github.com/Max-Starling)
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
  
 Ukraine, we are for you! 💙💛
 
