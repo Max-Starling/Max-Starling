@@ -7,8 +7,6 @@
 ⚡ I’m currently working for [Hunters](https://www.hunters.ai/) and [Sourceter](https://sourceter.com/). Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/).  
 ✒ I share my knowledge in [Max-Starling/Notes](https://github.com/Max-Starling/Notes). Open to become a mentor or collaborator.  
 🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).
-  
-
 
 <a href="http://www.github.com/Max-Starling">
  <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=242938&ring=88dcfe&fire=27e8a7&currStreakNum=27e8a7&currStreakLabel=27e8a7&sideNums=27e8a7&&sideLabels=88dcfe&dates=88dcfe" /></a>
