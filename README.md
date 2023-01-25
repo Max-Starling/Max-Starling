@@ -7,9 +7,9 @@
 
 
 <a href="http://www.github.com/Max-Starling">
- <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=242938&ring=88dcfe&fire=27e8a7&currStreakNum=27e8a7&currStreakLabel=27e8a7&sideNums=27e8a7&&sideLabels=88dcfe&dates=88dcfe" /></a>
 
-<img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
+<img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
  
 Ukraine, we are for you! 💙💛
 
