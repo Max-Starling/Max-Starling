@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-<img align="right" height="154" src="https://user-images.githubusercontent.com/22237384/214588861-78b05d0c-31d1-4837-9567-c1d6a3020e6c.gif" />
+<img align="right" height="164" src="https://user-images.githubusercontent.com/22237384/214588861-78b05d0c-31d1-4837-9567-c1d6a3020e6c.gif" />
 
 
 🧙‍♂️ I'm Max, a Senior Full Stack Developer based in ~~Minsk, Belarus~~ (anywhere but here).  
