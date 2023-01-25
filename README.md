@@ -6,10 +6,11 @@
 🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).  
 
 
-<a href="http://www.github.com/Max-Starling"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Max-Starling"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats)](https://github.com/Max-Starling)
-  Ukraine, we are for you! 💙💛
+ 
+Ukraine, we are for you! 💙💛
 
 
 <!-- <a href="https://wakatime.com" width="200px"><img src="https://wakatime.com/share/@Max_Starling/b5324425-4052-4937-90ea-44cc8905dc67.png" /></a> -->
