@@ -3,9 +3,10 @@
 <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214588861-78b05d0c-31d1-4837-9567-c1d6a3020e6c.gif" />
 <!-- <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214594621-5bb716f9-45a9-4299-9b6d-8a3badd62ddc.gif" /> -->
 
-🧙‍♂️ I'm Max, a Senior Full Stack Developer based in ~~Minsk, Belarus~~ (anywhere but here).  
-⚡ I’m currently working for [Hunters](https://www.hunters.ai/) and [Sourceter](https://sourceter.com/). Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/).  
-✒ I share my knowledge in [Max-Starling/Notes](https://github.com/Max-Starling/Notes). Open to become a mentor or collaborator.  
+<!-- based in ~~Minsk, Belarus~~ (anywhere but here).   -->
+🧙‍♂️ I'm Max, a Senior Full Stack Engineer traveling around the world and working remotely.  
+⚡ I work for [Hunters](https://www.hunters.ai/) and [Sourceter](https://sourceter.com/) in B2B format. Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/). Open to become a mentor or collaborator.  
+✒ Some of my shared knowledge and experience can be found in [Max-Starling/Notes](https://github.com/Max-Starling/Notes).  
 🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).  
 
 <a href="http://www.github.com/Max-Starling">
