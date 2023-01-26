@@ -6,7 +6,7 @@
 <!-- based in ~~Minsk, Belarus~~ (anywhere but here).   -->
 🧙‍♂️ I'm Max, a Senior Full Stack Engineer traveling around the world and working remotely.  
 ⚡ I work for [Hunters](https://www.hunters.ai/) and [Sourceter](https://sourceter.com/) in B2B format. Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/). Open to become a mentor or collaborator.  
-✒ Some of my shared knowledge and experience can be found in [Max-Starling/Notes](https://github.com/Max-Starling/Notes).  
+✒ I share some of my knowledge and experience in [Max-Starling/Notes](https://github.com/Max-Starling/Notes).  
 🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).  
 
 <a href="http://www.github.com/Max-Starling">
@@ -18,8 +18,6 @@
 
 
 <!-- <a href="https://wakatime.com" width="200px"><img src="https://wakatime.com/share/@Max_Starling/b5324425-4052-4937-90ea-44cc8905dc67.png" /></a> -->
-
-
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Starling&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
