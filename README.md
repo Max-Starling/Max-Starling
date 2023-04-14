@@ -14,7 +14,7 @@
 
 <img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
  
-💙💛 *Ukraїne*,  we are for you! 
+💙💛 *Ukraїne*,  the whole world is with you! 
 
 
 <!-- <a href="https://wakatime.com" width="200px"><img src="https://wakatime.com/share/@Max_Starling/b5324425-4052-4937-90ea-44cc8905dc67.png" /></a> -->
