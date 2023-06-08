@@ -1,5 +1,4 @@
-### Greetings 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27e8a7&width=435&lines=Greetings+%F0%9F%91%8B)](https://git.io/typing-svg)
 <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214588861-78b05d0c-31d1-4837-9567-c1d6a3020e6c.gif" />
 <!-- <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214594621-5bb716f9-45a9-4299-9b6d-8a3badd62ddc.gif" /> -->
 
