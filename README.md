@@ -12,7 +12,7 @@
 
 <img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=4000&color=FFF516&multiline=true&repeat=false&width=535&height=30&lines=Ukra%D1%97ne%2Cthe+whole+world+is+with+you!+%F0%9F%92%99%F0%9F%92%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=4000&color=FFF516&multiline=true&repeat=false&width=535&height=30&lines=Ukra%D1%97ne%2Cthe+whole+world+is+with+you!%F0%9F%92%99%F0%9F%92%9B)](https://git.io/typing-svg)
 
 <!-- <a href="https://wakatime.com" width="200px"><img src="https://wakatime.com/share/@Max_Starling/b5324425-4052-4937-90ea-44cc8905dc67.png" /></a> -->
 
