@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27e8a7&width=435&lines=Greetings+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=27E8A7&multiline=true&width=435&height=30&lines=Greetings%F0%9F%91%8B)](https://git.io/typing-svg)
 <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214588861-78b05d0c-31d1-4837-9567-c1d6a3020e6c.gif" />
 <!-- <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214594621-5bb716f9-45a9-4299-9b6d-8a3badd62ddc.gif" /> -->
-
 <!-- based in ~~Minsk, Belarus~~ (anywhere but here).   -->
 🧙‍♂️ I'm Max, a Senior Full Stack Engineer traveling around the world and working remotely.  
 ⚡ I work for [Hunters](https://www.hunters.ai/) and [Sourceter](https://sourceter.com/) in B2B format. Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/). Open to become a mentor or collaborator.  
@@ -13,7 +12,7 @@
 
 <img height="154" src="https://github-readme-stats.vercel.app/api?username=Max-Starling&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry&hide=contribs&custom_title=Max-Starling%27s%20GitHub%20Stats" align="center" />
  
-💙💛 *Ukraїne*,  the whole world is with you! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=3000&color=FFFC00&multiline=true&repeat=false&width=435&lines=Ukraine%2Cthe+whole+world+is+with+you!+%F0%9F%92%99%F0%9F%92%9B)](https://git.io/typing-svg)
 
 
 <!-- <a href="https://wakatime.com" width="200px"><img src="https://wakatime.com/share/@Max_Starling/b5324425-4052-4937-90ea-44cc8905dc67.png" /></a> -->
