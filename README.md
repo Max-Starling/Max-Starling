@@ -5,7 +5,7 @@
 🧙‍♂️ I'm Max, a Senior Full Stack Engineer traveling around the world and working remotely.  
 ⚡ I work for [Hunters](https://www.hunters.ai/) and [Sourceter](https://sourceter.com/) in B2B format. Previously worked for [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/). Open to become a mentor or collaborator.  
 ✒ I share some of my knowledge and experience in [Max-Starling/Notes](https://github.com/Max-Starling/Notes).  
-🔭 You can find more info about me in [my CV web page](https://max-starling-cv.web.app/).  
+🔭 You can find more info about me in [my CV web page](https://cv-max-starling.vercel.app/).  
 
 <a href="http://www.github.com/Max-Starling">
  <img align="left" height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Starling&stroke=ffffff&background=242938&ring=7395df&fire=27e8a7&currStreakNum=27e8a7&currStreakLabel=27e8a7&sideNums=27e8a7&&sideLabels=88dcfe&dates=88dcfe" /></a>
