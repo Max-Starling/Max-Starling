@@ -3,7 +3,7 @@
 <!-- <img align="right" height="180" src="https://user-images.githubusercontent.com/22237384/214594621-5bb716f9-45a9-4299-9b6d-8a3badd62ddc.gif" /> -->
 <!-- based in ~~Minsk, Belarus~~ (anywhere but here).   -->
 🧙‍♂️ I'm Max, a Senior Full Stack Engineer traveling around the world and working remotely.  
-⚡ Previously worked for [Hunters](https://www.hunters.ai/) (outstuffed by [Sourceter](https://sourceter.com/)), [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/). Open to become a mentor or collaborator.  
+⚡ Previously worked for [Hunters](https://www.hunters.ai/) (outstuffed by [Sourceter](https://sourceter.com/)), [iTechArt](https://www.itechart.com/), [Paralect](https://www.paralect.com/) and [Exadel](https://exadel.com/). Open to work or collaborate.  
 ✒ I share some of my knowledge and experience in [Max-Starling/Notes](https://github.com/Max-Starling/Notes).  
 🔭 You can find more info about me in [my CV web page](https://cv-max-starling.vercel.app/).  
 
